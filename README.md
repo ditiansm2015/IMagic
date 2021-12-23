@@ -8,7 +8,6 @@ Coloring of image using Artificial Neural Network
 IMagic is a Machine Learning based model to color a black and white image i.e. by converting a Grayscale image into RGB image
 
 
-
 **About Dataset**
 
 The datasets are image files that can be read using the open-cv python library. Each sample image used was originally 256x256 pixels and consists of 3 bands - red, green, and blue. These images are resized into 64x64 pixels images and converted separately into Grayscale image which could be used as input and original 3 bands image as an output to neural network.
